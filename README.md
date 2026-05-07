@@ -3,7 +3,10 @@
 Hello, GitHub! 👋
 
 I'm Kaitlin Heusner, a student at Brigham Young University-Idaho interested in Software Engineering. Welcome to my GitHub profile!
-![Profile Picture](professional-picture.jpeg)
+
+<p align="center">
+  <img src="professional-picture.jpeg" width="200" />
+</p>
 
 ## About Me
 
