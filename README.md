@@ -16,17 +16,17 @@ I'm Kaitlin Heusner, a student at Brigham Young University-Idaho interested in S
 
 ## Technologies and Tools
 
-- Proficient in: C++, Python, C#, SQL, HTML, CSS
+- Experience with C++, Python, C#, SQL, HTML, CSS
 - Skills: Object-Oriented Programming, Databases, MySQL, Pandas, Visual Studio, Visual Studio Code, Excel
 
 ## Projects
 
-- **StudyNexus (Web Application)** – A collaborative web application developed by a four-person team that enables users to organize tasks and communicate effectively. Users can create multiple groups and channels to collaborate on projects, manage tasks, and stay connected. This project strengthened my experience with collaborative software development, teamwork, and project coordination.
-- **2D Dungeon Crawler (GDScript)** – A collaborative game development project created by a four-person team. I was responsible for designing and implementing the game's map generation and level layouts, as well as integrating sound effects. The project applied object-oriented programming principles while providing experience with teamwork and collaborative software development. The repository for this one is here: [(https://github.com/KylerGreen/TheAdventurersInn/tree/main)]()
-- **Music Library Manager (Firestore)** – A database-driven application that allows users to create, organize, and share playlists. Built using Firestore to practice cloud database integration, data management, and database design.
-- **Health Data Analysis (Python & Pandas)** – A data analysis project that processes health record datasets to identify trends and provide insights into overall health patterns using Python and the Pandas library.
-- **Library Management System (SQLite)** – A library management application that allows users to create library accounts, manage book inventories, borrow and return books, and track book availability. Built using SQLite to strengthen database design and data persistence skills.
-- **Online Food Shopping (C#)** - A C# interactive program that allows a user to manage a food delivery program by choosing restaurants, food choice, and quantity. Built using Visual Studio Code. It is viewable in cSE-210 assignments repository in the final folder.  
+- **StudyNexus (Web Application)** – A collaborative web application developed by a four-person team that enables users to organize tasks and communicate effectively. Users can create multiple groups and channels to collaborate on projects, manage tasks, and stay connected. This project strengthened my experience with collaborative software development, teamwork, and project coordination. The repository for this one is here: [Repository](https://github.com/A-Michael-Olson/StudyNexus)
+- **2D Dungeon Crawler (GDScript)** – A collaborative game development project created by a four-person team. I was responsible for designing and implementing the game's map generation and level layouts, as well as integrating sound effects. The project applied object-oriented programming principles while providing experience with teamwork and collaborative software development. The repository for this one is here: [Repository](https://github.com/KylerGreen/TheAdventurersInn)
+- **Music Library Manager (Firestore)** – A database-driven application that allows users to create, organize, and share playlists. Built using Firestore to practice cloud database integration, data management, and database design. The repository for this one is here: [Repository](https://github.com/kaitlinheusner/MusicLibraryManager)
+- **Health Data Analysis (Python & Pandas)** – A data analysis project that processes health record datasets to identify trends and provide insights into overall health patterns using Python and the Pandas library. The repository for this one is here: [Repository](https://github.com/kaitlinheusner/HealthAnalysisProgram)
+- **Library Management System (SQLite)** – A library management application that allows users to create library accounts, manage book inventories, borrow and return books, and track book availability. Built using SQLite to strengthen database design and data persistence skills. The repository for this one is here: [Repository](https://github.com/kaitlinheusner/LibrarySystem)
+- **Online Food Shopping (C#)** - A C# interactive program that allows a user to manage a food delivery program by choosing restaurants, food choice, and quantity. Built using Visual Studio Code. It is viewable in cSE-210 assignments repository in the final folder.  [Repository](https://github.com/kaitlinheusner/cse210-assignments/tree/main/final/FinalProject) 
 
 ## Let's Connect!
 
