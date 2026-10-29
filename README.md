@@ -26,6 +26,7 @@ I'm Kaitlin Heusner, a student at Brigham Young University-Idaho interested in S
 - **Music Library Manager (Firestore)** – A database-driven application that allows users to create, organize, and share playlists. Built using Firestore to practice cloud database integration, data management, and database design.
 - **Health Data Analysis (Python & Pandas)** – A data analysis project that processes health record datasets to identify trends and provide insights into overall health patterns using Python and the Pandas library.
 - **Library Management System (SQLite)** – A library management application that allows users to create library accounts, manage book inventories, borrow and return books, and track book availability. Built using SQLite to strengthen database design and data persistence skills.
+- **Online Food Shopping (C#)** - A C# interactive program that allows a user to manage a food delivery program by choosing restaurants, food choice, and quantity. Built using Visual Studio Code. It is viewable in cSE-210 assignments repository in the final folder.  
 
 ## Let's Connect!
 
